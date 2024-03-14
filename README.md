@@ -1,4 +1,4 @@
-# SabrinaKoldinger
+# Sabrina Koldinger
 Some things you should know about me
 
 ## Education
