@@ -15,7 +15,7 @@ sako4202@gmail.com
 - [Unoffical Current Transcripts]()
 - [Link to the Course catalog for upper division biology classes]()
 ### Course Final Projects and Work
-- [Bioinfomatics Course Work]()
+- [Bioinfomatics Course Work](https://skolding.github.io/BIMM143/)
 - [Recombinant DNA Final Paper]()
   
 
