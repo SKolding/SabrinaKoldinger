@@ -1,6 +1,11 @@
 # Sabrina Koldinger
 Some things you should know about me
 
+## Contact Information
+(916) 693-0602
+sako4202@gmail.com
+
+
 ## Education
 - University of California- San Diego
 - October 2020 - June 2024
