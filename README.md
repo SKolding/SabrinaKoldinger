@@ -1,6 +1,3 @@
-# Sabrina Koldinger
-Some things you should know about me
-
 ## Contact Information
 (916) 693-0602
 
