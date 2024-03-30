@@ -11,9 +11,9 @@ sako4202@gmail.com
 - University of California- San Diego
 - October 2020 - June 2024
 - B.S. in General Biology
-- GPA: 3.73
+- GPA: 3.74
 - [Unoffical Current Transcripts]()
-- [Link to the Course catalog for upper division biology classes]()
+- [Link to the Course catalog for upper division biology classes](https://catalog.ucsd.edu/courses/BIOL.html)
 
 ### Course Final Projects and Work
 - [Bioinfomatics Course Work](https://skolding.github.io/BIMM143/)
@@ -21,7 +21,7 @@ sako4202@gmail.com
   
 
 ## Athletics
-I have been a Division I rower for all four years of university. Prior I rowed all four years of high school at Capital Crew. Rowing has brought me some of my closest friendships and taught me many lessons. 
+I started rowing for Capital Crew in high school as a shy, socially anxious freshman. I rowed in the top boat starting my sophomore year and competed nationally ranking 6th and 9th in 2018 and 2019. I loved the sport so much and created some of the best friendships that I decided to continue into college. I was recruited into the newly transitioned Division I rowing program at UC San Diego. I again have competed in the top boat throughout my time here. This sport has taught me self-confidence and helpful skills such as time management, clear communication, and teamwork. It has also brought me some of my closest friendships and fondest memories. 
 
 ## Hobbies
 I love backpacking during the summer. I enjoy traveling and have visited many countries. My most recent trips have been to the UK, where I was studying abroad in Edinburgh, and to Costa Rica and Belize with National Geographic Student Expeditions to complete community service and marine conservation projects. 
