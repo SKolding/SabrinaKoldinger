@@ -12,7 +12,7 @@ sako4202@gmail.com
 - October 2020 - June 2024
 - B.S. in General Biology
 - GPA: 3.74
-- [Unoffical Current Transcripts](https://github.com/SKolding/SabrinaKoldinger/blob/main/academichistoryreviewpdf%20(6).pdf) [embed][http://example.com/file.pdf](https://github.com/SKolding/SabrinaKoldinger/blob/main/academichistoryreviewpdf%20(6).pdf)[/embed]
+- [Unoffical Current Transcripts](https://github.com/SKolding/SabrinaKoldinger/blob/main/academichistoryreviewpdf%20(6).pdf) 
 - [Link to the Course catalog for upper division biology classes](https://catalog.ucsd.edu/courses/BIOL.html)
 
 ### Course Final Projects and Work
