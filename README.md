@@ -8,7 +8,8 @@ sako4202@gmail.com
 
 ## Education
 University of California- San Diego
-- M.S. in Biological Research | October 2024 - June 2025 | Research of jumbo phage Goslar with CRISPR-Cas13a
+- M.S. in Biological Research | October 2024 - June 2025 |
+-- Research of jumbo phage Goslar with CRISPR-Cas13a
 
 - B.S. in General Biology
 | October 2020 - June 2024
