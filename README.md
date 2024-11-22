@@ -9,12 +9,12 @@ sako4202@gmail.com
 ## Education
 University of California- San Diego
 - M.S. in Biological Research
-October 2024 - June 2025
-Research of jumbo phage Goslar with CRISPR-Cas13a
+| October 2024 - June 2025
+| Research of jumbo phage Goslar with CRISPR-Cas13a
 
 - B.S. in General Biology
-October 2020 - June 2024
-GPA: 3.74
+| October 2020 - June 2024
+| GPA: 3.74
 - [Current Transcripts](https://github.com/SKolding/SabrinaKoldinger/blob/main/Transcript.pdf)
 - [Link to the Course catalog for upper division biology classes](https://catalog.ucsd.edu/courses/BIOL.html)
 
